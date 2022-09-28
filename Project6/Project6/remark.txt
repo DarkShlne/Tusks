@@ -1,0 +1,41 @@
+REMARK 4 (updated), Format ..................................................................................................91
+REMARK 5 (updated), Obsolete Statement
+REMARKs 6 - 99
+REMARK 100 (updated), Deposition or Processing Site 
+REMARKs 200-265, Experimental Details
+PDB File Format v. 3.3
+Page ii
+REMARK 200 (updated), X-ray Diffraction Experimental Details
+REMARK 205, Fiber Diffraction, Fiber Sample Experiment Details
+REMARKs 210 and 215/217, NMR Experiment Details
+REMARK 230, Neutron Diffraction Experiment Details
+REMARK 240 (updated), Electron Crystallography Experiment Details
+REMARK 245 (updated), Electron Microscopy Experiment Details
+REMARK 247, Electron Microscopy details 
+REMARK 250, Other Type of Experiment Details
+REMARK 265, Solution Scattering Experiment Details
+REMARKs 280-290, Crystallographic Details
+REMARK 280, Crystal
+REMARK 285, CRYST1
+REMARK 290, Crystallographic Symmetry
+REMARK 300 (updated), Biomolecule
+REMARK 350 (updated), Generating the Biomolecule 
+Example – When software predicts multiple quaternary assemblies 
+REMARK 375 (updated), Special Position
+REMARK 400, Compound 
+REMARK 450, Source 
+REMARK 465 (updated), Missing residues
+REMARK 470 (updated), Missing Atom(s)
+REMARK 475 (added), Residues modeled with zero occupancy 
+REMARK 480 (added), Polymer atoms modeled with zero occupancy 
+REMARK 500 (updated), Geometry and Stereochemistry
+REMARK 525 (updated), Distant Solvent Atoms 
+REMARK 600, Heterogen
+REMARK 610, Non-polymer residues with missing atoms
+REMARK 615, Non-polymer residues containing atoms with zero occupancy
+REMARK 620 (added), Metal coordination 
+REMARK 630 (added), Inhibitor Description
+REMARK 650, Helix
+REMARK 700, Sheet 
+REMARK 800 (updated), Important Sites 
+REMARK 999, Sequence

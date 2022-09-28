@@ -1,0 +1,10 @@
+Command list:
+load FILENAME  -- loading file that you need.
+show title/rem/atom/all/autor/cmpnd/file -- can show main part of the file.
+print FILENAME -- printing full file by parts.
+calc bonds -- calculating all bonds that contains in molecular structure in the file.
+bond ATOMNUMBER -- show all bonds that have chosen atom.
+distance ATOMNUMBER1 ATOMNUMBER2 -- calculate the distance between atoms.
+angle ATOMNUMBER1 ATOMNUMBER2 ATOMNUMBER3 -- calculate degree angle between atoms.
+torsion ATOMNUMBER1 ATOMNUMBER2 ATOMNUMBER3 ATOMNUMBER4 -- calculate torsion(dihedral) angle between atoms.
+exit -- Exiting the programm.
